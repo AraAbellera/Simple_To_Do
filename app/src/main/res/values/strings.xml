@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Simple To Do</string>
+    <string name="to_do_list">TO-DO LIST!</string>
+    <string name="add">ADD</string>
+    <string name="delete">DELETE</string>
+    <string name="clear">CLEAR</string>
+    <string name="to_do">To-Do:</string>
+    <string name="select_a_mode">Select a Mode:</string>
+    <string-array name="spinnerMode" >
+        <item>Add a new task</item>
+        <item>Remove a task</item>
+        <item>Important a task</item>
+    </string-array>
+</resources>
